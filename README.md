@@ -1,8 +1,9 @@
 # OpenAPI for frontend
 
-This project demonstrates how to build client and form validation from OpenAPI specification. Project builds on top
-of [Svelte](https://svelte.dev/) and [Snowpack](https://www.snowpack.dev/). HTTP client is generated with help
-of [swagger-typescript-api](https://github.com/acacode/swagger-typescript-api). Form validation is based on [Ajv](https://ajv.js.org/).
+This project demonstrates how to build client and form validation from OpenAPI specification.
+Project builds on top of [Svelte](https://svelte.dev/) and [Snowpack](https://www.snowpack.dev/).
+HTTP client is generated with help of [swagger-typescript-api](https://github.com/acacode/swagger-typescript-api).
+Form validation is based on [Ajv](https://ajv.js.org/).
 
 ## Setup Environment
 
@@ -10,7 +11,8 @@ of [swagger-typescript-api](https://github.com/acacode/swagger-typescript-api). 
 npm install
 ```
 
-> if you plan to contribute you should also install [pre-commit](https://pre-commit.com/) and setup it with `pre-commit install` command.
+> if you plan to contribute you should also install [pre-commit](https://pre-commit.com/)
+> and setup it with `pre-commit install` command.
 
 ## Play
 
