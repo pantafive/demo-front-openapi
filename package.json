@@ -5,9 +5,9 @@
 		"test": "echo \"This template does not include a test runner by default.\" && exit 1"
 	},
 	"devDependencies": {
-		"@openapitools/openapi-generator-cli": "^2.4.18",
 		"@snowpack/plugin-svelte": "^3.7.0",
-		"snowpack": "^3.8.8"
+		"snowpack": "^3.8.8",
+		"swagger-typescript-api": "^9.2.0"
 	},
 	"dependencies": {
 		"ajv": "^6.12.6",

@@ -2,7 +2,7 @@
 
 This project demonstrates how to build client and form validation from OpenAPI specification. Project builds on top
 of [Svelte](https://svelte.dev/) and [Snowpack](https://www.snowpack.dev/). HTTP client is generated with help
-of [OpenAPI Generator](https://openapi-generator.tech/). Form validation is based on [Ajv](https://ajv.js.org/).
+of [swagger-typescript-api](https://github.com/acacode/swagger-typescript-api). Form validation is based on [Ajv](https://ajv.js.org/).
 
 ## Setup Environment
 

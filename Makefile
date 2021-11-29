@@ -9,4 +9,4 @@ up-dev: ## Start dev environment
 
 .PHONY: codegen
 codegen: ## Codegen
-	npx @openapitools/openapi-generator-cli generate -i src/openapi.json -g typescript-fetch -o ./src/gen
+	npx swagger-typescript-api -p ./src/openapi.json -o ./src/gen -n api.ts
