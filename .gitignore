@@ -4,3 +4,5 @@ node_modules
 
 !.gitignore
 !.pre-commit-config.yaml
+!.prettierrc.js
+!.github
